@@ -118,6 +118,16 @@
         "anxious"
       ],
       "id": "11"
+    },
+    {
+      "name": "Dallin",
+      "species": "fish",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "zany",
+        "anxious"
+      ],
+      "id": "12"
     }
   ]
 }
